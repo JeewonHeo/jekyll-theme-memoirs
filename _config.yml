@@ -33,7 +33,7 @@ authors:
 #    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
   ji:
     name: ji 
-    display_name: 지인
+    display_name: Jiin
     avatar: 'image/jiprofile.jpeg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
@@ -43,7 +43,7 @@ authors:
 
    sm:
     name: sm 
-    display_name: 성민
+    display_name: Seongmin
     avatar: 'image/jiprofile.jpeg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
@@ -53,7 +53,7 @@ authors:
 
    hy:
     name: hy 
-    display_name: 효원
+    display_name: Hyowon
     avatar: 'image/jiprofile.jpeg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
@@ -63,7 +63,7 @@ authors:
 
    ws:
     name: ws 
-    display_name: 원식
+    display_name: Wonsick
     avatar: 'image/jiprofile.jpeg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
@@ -73,7 +73,7 @@ authors:
 
    jw:
     name: jw 
-    display_name: 지원
+    display_name: Jeewon
     avatar: 'image/jiprofile.jpeg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
