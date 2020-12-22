@@ -43,12 +43,30 @@ authors:
   sm:
     name: sm 
     display_name: Seongmin
-    avatar: 'image/jiprofile.jpeg'
+    avatar: 'image/smprofile.jpeg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
     web: https://instagram.com/00_seong__min/
     twitter: https://twitter.com/wowthemesnet
+  hy:
+    name: hy 
+    display_name: Hyowon
+    avatar: 'image/hyprofile.jpeg'
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: wowthemesnet@gmail.com
+    web: https://instagram.com/21j_arori/
+    twitter: https://twitter.com/wowthemesnet
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  ws:
+    name: ws 
+    display_name: Wonsick
+    avatar: 'image/wsprofile.jpeg'
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: wowthemesnet@gmail.com
+    web: https://instagram.com/21j_arori/
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+   description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
 
 
 #   sm:
